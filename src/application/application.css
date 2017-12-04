@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Carter+One');	
+.mybutton{
+	-fx-background-color: orange;
+	-fx-border-color: orange;
+	-fx-text-fill: white;
+}
+
+.mytitle{
+    /*-fx-font-family: "HipsterishFontNormal";*/
+    -fx-font-family:  "Carter One"S, cursive;
+}
+
+.avatar {
+    /* This image is 687 wide by 1024 tall, similar to your aspect ratio
+    background-image: "refugees.jpg";*/
+    
+  object-fit: cover;
+  border-radius:50%;
+  width: 150px;
+  height: 150px;
+  
+  
+  
+}
